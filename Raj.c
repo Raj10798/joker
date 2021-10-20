@@ -1,6 +1,7 @@
 #include <stdio.h>
 
-int main() {
+
+Void main() {
    /* my first program in C */
    printf("Hello, World! \n");
    
